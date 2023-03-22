@@ -88,7 +88,7 @@ export default function Home() {
         <HStack w='full'>
           <Spacer />
           <Button variant="code">
-            <Link isExternal href='https://www.youtube.com'>Source Code</Link>
+            <Link isExternal href='https://github.com/facundocarballo/dynamic-routes-firebase-nextjs'>Source Code</Link>
           </Button>
           <Box w='50px' />
           <Button variant="youtube">
