@@ -92,7 +92,7 @@ export default function Home() {
           </Button>
           <Box w='50px' />
           <Button variant="youtube">
-            <Link isExternal href='https://www.youtube.com'>YouTube Video</Link>
+            <Link isExternal href='https://youtu.be/9ligBoLTNls'>YouTube Video</Link>
           </Button>
           <Spacer />
         </HStack>
